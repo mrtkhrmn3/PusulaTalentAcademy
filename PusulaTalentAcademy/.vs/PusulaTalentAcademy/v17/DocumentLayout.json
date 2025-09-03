@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|c:\\users\\mert\\source\\repos\\pusulatalentacademy\\pusulatalentacademy\\filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|solutionrelative:pusulatalentacademy\\filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|c:\\users\\mert\\source\\repos\\pusulatalentacademy\\pusulatalentacademy\\longestvowelsubsequenceasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|solutionrelative:pusulatalentacademy\\longestvowelsubsequenceasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|c:\\users\\mert\\source\\repos\\pusulatalentacademy\\pusulatalentacademy\\maxincreasingsubarrayasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|solutionrelative:pusulatalentacademy\\maxincreasingsubarrayasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|c:\\users\\mert\\source\\repos\\pusulatalentacademy\\pusulatalentacademy\\filterpeoplefromxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816F494-8498-494B-9D50-7FAB846C354C}|PusulaTalentAcademy\\PusulaTalentAcademy.csproj|solutionrelative:pusulatalentacademy\\filterpeoplefromxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\FilterEmployees.cs",
+              "RelativeDocumentMoniker": "PusulaTalentAcademy\\FilterEmployees.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\FilterEmployees.cs",
+              "RelativeToolTip": "PusulaTalentAcademy\\FilterEmployees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:49:12.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterPeopleFromXml.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\FilterPeopleFromXml.cs",
+              "RelativeDocumentMoniker": "PusulaTalentAcademy\\FilterPeopleFromXml.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\FilterPeopleFromXml.cs",
+              "RelativeToolTip": "PusulaTalentAcademy\\FilterPeopleFromXml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T12:31:41.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LongestVowelSubsequenceAsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\LongestVowelSubsequenceAsJson.cs",
+              "RelativeDocumentMoniker": "PusulaTalentAcademy\\LongestVowelSubsequenceAsJson.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\LongestVowelSubsequenceAsJson.cs",
+              "RelativeToolTip": "PusulaTalentAcademy\\LongestVowelSubsequenceAsJson.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:47:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaxIncreasingSubArrayAsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\MaxIncreasingSubArrayAsJson.cs",
+              "RelativeDocumentMoniker": "PusulaTalentAcademy\\MaxIncreasingSubArrayAsJson.cs",
+              "ToolTip": "C:\\Users\\Mert\\source\\repos\\PusulaTalentAcademy\\PusulaTalentAcademy\\MaxIncreasingSubArrayAsJson.cs",
+              "RelativeToolTip": "PusulaTalentAcademy\\MaxIncreasingSubArrayAsJson.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:09:22.113Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\bin\Debug\net8.0\PusulaTalentAcademy.exe
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\bin\Debug\net8.0\PusulaTalentAcademy.deps.json
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\bin\Debug\net8.0\PusulaTalentAcademy.runtimeconfig.json
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\bin\Debug\net8.0\PusulaTalentAcademy.dll
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\bin\Debug\net8.0\PusulaTalentAcademy.pdb
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.AssemblyInfo.cs
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.dll
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\refint\PusulaTalentAcademy.dll
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.pdb
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\PusulaTalentAcademy.genruntimeconfig.cache
+C:\Users\Mert\source\repos\PusulaTalentAcademy\PusulaTalentAcademy\obj\Debug\net8.0\ref\PusulaTalentAcademy.dll
